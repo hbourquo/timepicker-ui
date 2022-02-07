@@ -516,7 +516,7 @@ export default class TimepickerUI {
           degreesMinutes: this._degreesMinutes,
         });
 
-        this.close();
+        //this.close();
       });
     });
   };
@@ -547,7 +547,7 @@ export default class TimepickerUI {
           degreesMinutes: this._degreesMinutes,
         });
 
-        this.close();
+        //this.close();
       });
     });
   };
